@@ -17,12 +17,19 @@ Is er een verschil in schoenmaat tussen verschillende sexe
 
  
 
-Er is bij de mens een sexe-verschil in schoenmaat
+Er is bij de mens een sexe-verschil in schoenmaat, we gaan uit van een kleinere schoenmaat bij vrouwen.
 
- 
+
+### nulhypothese
+
+
+
+Er is geen verschil in schoenmaat tussen mannen en vrouwen.
+
+
 
 ### experiment
-Ons plan om ons onderzoeksvraag te beantwoorden van is er  een verschil in schoenmaat bij mensen met een sexeverschil. Dit beantwoorden we door 20 mannen en 20 vrouwen te vragen wat hun schoenmaat is.
+Ons plan om ons onderzoeksvraag te beantwoorden van is er een verschil in schoenmaat bij mensen met een sexeverschil. Dit beantwoorden we door 20 mannen en 20 vrouwen te vragen wat hun schoenmaat is.
 
  
 
@@ -40,14 +47,14 @@ Ons plan om ons onderzoeksvraag te beantwoorden van is er  een verschil in schoe
 
  
 
-we Zoeken samen met ons groepje van de klas, in of rond het schoolgebouw medestudenten. we Vragen beleefd of ze willen participeren in een klein wetenschappelijk onderzoekje voor school waarbij de maten van de schoen en leeftijd zullen worden opgenomen.
+We zoeken samen met ons groepje uit de klas, in of rond het schoolgebouw medestudenten. We vragen deze medestudenten beleefd of ze willen participeren in een klein wetenschappelijk onderzoekje voor school waarbij de maten van de schoen en leeftijd zullen worden opgenomen.
 Is het antwoord nee, dan groet je vriendelijk en zoek je verder.
-Is het antwoord ja, dan vraag je of de proefpersoon zijn schoenmaat en leeftijd wil vertellen. Deze leggen we vast in onze spreadsheet, samen met een laborant-ID  van de proefpersoon. Ten slotte vraag je aan de proefpersoon zijn/haar sexe en legt deze vast. Wil de proefpersoon deze niet geven, of is die nonbinair, dan leggen we dit vast als “anders/onbekend”. Bedank de proefpersoon voor deelname.
+Is het antwoord ja, dan vragen we de proefpersoon zijn of haar schoenmaat en leeftijd. Deze leggen we vast in onze spreadsheet, samen met een laborant-ID van de proefpersoon. Ten slotte vragen we aan de proefpersoon zijn/haar sexe en leggen wij deze vast. Wil de proefpersoon deze niet geven, of is die nonbinair, dan leggen we dit vast als “anders/onbekend”. Tot slot bedanken we de proefpersoon voor hun deelname.
 Wissel de metingen af tussen de verschillende studenten in jouw groepje.
 
  
 
-We gaan door totdat we ten minste 40 proefpersonen de gegevens zijn verzameld.
+We gaan door totdat van ten minste 40 proefpersonen de gegevens zijn verzameld.
 
 ```{r visualize, echo = FALSE}
 library(ggplot2)

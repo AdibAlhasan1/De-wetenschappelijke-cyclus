@@ -19,6 +19,11 @@ Is er een verschil in schoenmaat tussen verschillende sexe
 
 Er is bij de mens een sexe-verschil in schoenmaat
 
+
+### nulhypothese
+
+er is geen verschil in schoenmaat tussen de sexe
+
  
 
 ### experiment
@@ -108,4 +113,54 @@ ggplot(biometric_data, mapping = aes(x = Sexe, y = Leeftijd, fill = Sexe)) +
  labs(x = "Sexe", y = "Leeftijd", title= "Leeftijd bij mannen vs vrouwen") + # as-labels
  theme_minimal() # beetje schoner plotje maken
 ```
+
+
+
+
+
+
+
+```{r visualize 5, echo = FALSE}
+shapiro.test(biometric_data$Schoenmaat)
+shapiro.test(biometric_data$Leeftijd)
+
+female_ratios <- subset(biometric_data, 
+                        subset = Sexe == "v", 
+                        select = Schoenmaat, 
+                        drop = T) # drop = T forces ro a vector
+male_ratios <- subset(biometric_data, 
+                        subset = Sexe == "m", 
+                        select = Schoenmaat, 
+                        drop = T)
+t.test(female_ratios, male_ratios)
+
+wilcox.test(Schoenmaat ~ Sexe, data = biometric_data, paired = FALSE)
+```
+
+
+## reflectie
+
+Het verschil tussen mannen en vrouwen met de schoenmaat is wel sitgnificant verschillend. Mannen hebben gemiddeld
+een schoenmaat van 4-5 meer dan vrouwen. De leeftijd is niet significant tot de schoenmaat, want er is geen duidelijk verschil in grootte
+van schoenmaat bij mensen die ouder zijn dan de rest. we zouden de verschil in schoenmaat kunnen verklaren door het feit dat mannen andere hormonen hebben dan vrouwen
+Het hormoon wat zorgt voor onder andere grotere voeten is testosteron. Dit hormoon zorgt voor betere groei en ontwikkeling van de botten, en dus ook grotere voeten.
+
+De P bij leeftijd is significant verschillend, dit komt omdat bij de mannen we de eerstejaars groep voor het grootste gedeelte hebben gevraagd.
+Daarna hebben we een willekeurige groep gevraagd in de kantine die uit verschillende jaren kunnen komen, waardoor de P significant verschilt van de normale verdeling.
+
+De data van ons onderzoek zouden we veranderen doordat leeftijd geen relatie heeft in schoenmaat, dus daardoor zouden wij dit dit protocol
+aanpassen als we het nog een keer gaan doen en leeftijd vervangen met de lengte van de persoon in centimeters.
+
+
+
+
+## conclusie
+
+Onze hypothese van dat mannen een grotere gemiddelde schoenmaat hebben vergeleken met vrouwen is correct. Daarbij is de nulhypothese verworpen aangezien deze
+erop duidde dat er juist geen verschil zou zijn in schoenmaat. In de grafieken kun je boxplots zien waarin het verschil en uitschieters bij leeftijd en schoenmaat
+te zien valt. De mediaan valt ook te zien, in de vorm van een streep binnenin de plots. Er is ook een bargraph te zien, waarin de frequenties te zien zijn van de 
+verschillende schoenmaten. Deze is verdeeld in sexe. Naast deze grafieken is er ook nog een dotmatrix, waarin de verschillende schoenmaten en leeftijden worden weergeven.
+Deze zijn gelinkt in deze grafiek, en je kunt duidelijk uitschieters zien. Ook is er een trendlijn zichtbaar.
+
+
 

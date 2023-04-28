@@ -21,7 +21,7 @@ Is er een verschil in schoenmaat tussen verschillende sexe
 
  
 
-## hypothese
+## Hypothese
 
  
 
@@ -29,7 +29,7 @@ Er is bij de mens een sexe-verschil in schoenmaat
 
 
 
-## nulhypothese
+## Nulhypothese
 
 
 
@@ -37,29 +37,29 @@ Er is geen verschil in schoenmaat tussen de sexe
 
 
 
-## experiment
-Ons plan om ons onderzoeksvraag te beantwoorden van is er  een verschil in schoenmaat bij mensen met een sexeverschil. Dit beantwoorden we door 20 mannen en 20 vrouwen te vragen wat hun schoenmaat is.
+## Experiment
+Onze onderzoeksvraag luidt: is er een verschil in schoenmaat tussen mensen met een sexeverschil (e.g. man vergeleken met vrouw), en is er ook een correlatie met leeftijd te vinden?
+Dit beantwoorden we door 20 mannen en 20 vrouwen te vragen wat hun schoenmaat en leeftijd is.
 
  
 
-### Protocol
-
+## Protocol
+De methode waarop wij onze data hebben verzameld is een vragenlijst, hier hadden wij geen materiaal voor nodig.
  
 
 ### Benodigheden
-1. Stem
-2. Vraag
+1. Een spreadsheet, voor het opslaan van verkregen data.
+2. Vragen
 
  
 
-## Data verzamelen
+### Data verzamelen
 
  
 
-We zoeken samen met ons groepje van de klas, in of rond het schoolgebouw medestudenten. we Vragen beleefd of ze willen participeren in een klein wetenschappelijk onderzoekje voor school waarbij de maten van de schoen en leeftijd zullen worden opgenomen.
+We zoeken samen met ons groepje van de klas, in of rond het schoolgebouw medestudenten. We vragen beleefd of ze willen participeren in een klein wetenschappelijk onderzoekje voor school waarbij de maten van de schoen en leeftijd zullen worden opgenomen.
 Is het antwoord nee, dan groet je vriendelijk en zoek je verder.
-Is het antwoord ja, dan vraag je of de proefpersoon zijn schoenmaat en leeftijd wil vertellen. Deze leggen we vast in onze spreadsheet, samen met een laborant-ID  van de proefpersoon. Ten slotte vraag je aan de proefpersoon zijn/haar sexe en legt deze vast. Wil de proefpersoon deze niet geven, of is die nonbinair, dan leggen we dit vast als “anders/onbekend”. Bedank de proefpersoon voor deelname.
-Wissel de metingen af tussen de verschillende studenten in jouw groepje.
+Is het antwoord ja, dan vraag je of de proefpersoon zijn of haar schoenmaat en leeftijd wil vertellen. Deze leggen we vast in onze spreadsheet, samen met een laborant-ID van de proefpersoon. Ten slotte vraag je aan de proefpersoon zijn/haar sexe en legt deze vast. Wil de proefpersoon deze niet geven, of is die nonbinair, dan leggen we dit vast als “anders/onbekend”. Tot slot bedanken we de proefpersoon voor hun deelname.
 
  
 

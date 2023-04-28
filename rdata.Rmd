@@ -75,7 +75,7 @@ biometric_data <- read.table(file = "schoenmaat.csv",
 ggplot(biometric_data, aes(x = Leeftijd, y = Schoenmaat)) +
   geom_point() +
   stat_summary(aes(group = Leeftijd), fun = mean, geom = "point", size = 3, color = "red") +
-  labs(x = "Leeftijd", y = "Schoenmaat", title = "Schoenmaat vs. Leeftijd")
+  labs(x = "Leeftijd (jaar)", y = "Schoenmaat (EU)", title = "Schoenmaat vs. Leeftijd")
 ```
 
 
@@ -85,9 +85,8 @@ ggplot(biometric_data,
        mapping = aes(x = Schoenmaat, fill = Sexe)) +
     geom_histogram(bins = 10, colour = "black") + # histogram layer with 10 bins
     facet_wrap(~ Sexe) +                       # split plots over gender
-    labs(x = "Schoenmaat", y = "Frequency", title = "Hoevaak komt dezelfde schoenmaat voor bij dezelfde leeftijd") +  # labels for x-axis and y-axis
+    labs(x = "Schoenmaat (EU)", y = "Frequency", title = "Hoevaak komt dezelfde schoenmaat voor bij dezelfde leeftijd") +  # labels for x-axis and y-axis
     theme_minimal()
-
 ```
 
 
@@ -103,7 +102,7 @@ biometric_data <- read.table(file = "schoenmaat.csv",
 ggplot(biometric_data, 
       mapping = aes(x = Sexe, y = Schoenmaat, fill = Sexe)) +
       geom_boxplot() + # boxplot visualisatie
-      labs(x = "Sexe", y = "Schoenmaat", title= "Schoenmaat bij mannen vs vrouwen") + # as-labels
+      labs(x = "Sexe", y = "Schoenmaat (EU)", title= "Schoenmaat bij mannen vs vrouwen") + # as-labels
       theme_minimal() # beetje schoner plotje maken
 ```
 
@@ -120,7 +119,7 @@ biometric_data <- read.table(file = "schoenmaat.csv",
 # maak de plot en voeg lagen toe
 ggplot(biometric_data, mapping = aes(x = Sexe, y = Leeftijd, fill = Sexe)) +
  geom_boxplot() + # boxplot visualisatie
- labs(x = "Sexe", y = "Leeftijd", title= "Leeftijd bij mannen vs vrouwen") + # as-labels
+ labs(x = "Sexe", y = "Leeftijd (jaar)", title= "Leeftijd bij mannen vs vrouwen") + # as-labels
  theme_minimal() # beetje schoner plotje maken
 ```
 
@@ -133,7 +132,6 @@ ggplot(biometric_data, mapping = aes(x = Sexe, y = Leeftijd, fill = Sexe)) +
 ```{r visualize 5, echo = FALSE}
 shapiro.test(biometric_data$Schoenmaat)
 shapiro.test(biometric_data$Leeftijd)
-
 female_ratios <- subset(biometric_data, 
                         subset = Sexe == "v", 
                         select = Schoenmaat, 
@@ -143,7 +141,6 @@ male_ratios <- subset(biometric_data,
                         select = Schoenmaat, 
                         drop = T)
 t.test(female_ratios, male_ratios)
-
 wilcox.test(Schoenmaat ~ Sexe, data = biometric_data, paired = FALSE)
 ```
 
@@ -171,6 +168,3 @@ erop duidde dat er juist geen verschil zou zijn in schoenmaat. In de grafieken k
 te zien valt. De mediaan valt ook te zien, in de vorm van een streep binnenin de plots. Er is ook een bargraph te zien, waarin de frequenties te zien zijn van de 
 verschillende schoenmaten. Deze is verdeeld in sexe. Naast deze grafieken is er ook nog een dotmatrix, waarin de verschillende schoenmaten en leeftijden worden weergeven.
 Deze zijn gelinkt in deze grafiek, en je kunt duidelijk uitschieters zien. Ook is er een trendlijn zichtbaar.
-
-
-

@@ -78,8 +78,10 @@ biometric_data <- read.table(file = "schoenmaat.csv",
 ggplot(biometric_data, aes(x = Leeftijd, y = Schoenmaat)) +
   geom_point() +
   stat_summary(aes(group = Leeftijd), fun = mean, geom = "point", size = 3, color = "red") +
-  labs(x = "Leeftijd", y = "Schoenmaat", title = "Schoenmaat vs. Leeftijd")
+  labs(x = "Leeftijd (in jaren)", y = "Schoenmaat", title = "Schoenmaat vs. Leeftijd")
 ```
+
+Observatie: Er zit een golvende beweging in de schoenmaten t.o.v. leeftijd. Dit is waarschijnlijk toeval.
 
 
 
@@ -92,6 +94,10 @@ ggplot(biometric_data,
     theme_minimal()
 
 ```
+
+Observatie: De verdeling van schoenmaat bij vrouwen is geleidelijker dan deze bij mannen is.
+Maat 45 komt maar 1 keer voor, maat 46 komt 5 keer voor.
+
 
 
 ```{r visualize 3, echo = FALSE}
@@ -110,8 +116,10 @@ ggplot(biometric_data,
       theme_minimal() # beetje schoner plotje maken
 ```
 
+Observatie: Mannen hebben vaker/gemiddeld een grotere schoenmaat dan vrouwen.
 
  
+
 ```{r visualize 4, echo = FALSE}
 library(ggplot2)
  
@@ -123,15 +131,16 @@ biometric_data <- read.table(file = "schoenmaat.csv",
 # maak de plot en voeg lagen toe
 ggplot(biometric_data, mapping = aes(x = Sexe, y = Leeftijd, fill = Sexe)) +
  geom_boxplot() + # boxplot visualisatie
- labs(x = "Sexe", y = "Leeftijd", title= "Leeftijd bij mannen vs vrouwen") + # as-labels
+ labs(x = "Sexe", y = "Leeftijd (in jaren)", title= "Leeftijd bij mannen vs vrouwen") + # as-labels
  theme_minimal() # beetje schoner plotje maken
 ```
 
+Observatie: Mannen die deelnamen aan ons onderzoek zijn gemiddeld jonger dan de vrouwen die deelnamen.
 
 
 
 
-## tests
+## Tests
 
 ```{r visualize 5, echo = FALSE}
 shapiro.test(biometric_data$Schoenmaat)
@@ -151,7 +160,7 @@ wilcox.test(Schoenmaat ~ Sexe, data = biometric_data, paired = FALSE)
 ```
 
 
-## reflectie
+## Reflectie
 
 Het verschil tussen mannen en vrouwen met de schoenmaat is wel sitgnificant verschillend. Mannen hebben gemiddeld
 een schoenmaat van 4-5 meer dan vrouwen. De leeftijd is niet significant tot de schoenmaat, want er is geen duidelijk verschil in grootte
@@ -167,7 +176,7 @@ aanpassen als we het nog een keer gaan doen en leeftijd vervangen met de lengte 
 
 
 
-## conclusie
+## Conclusie
 
 Onze hypothese van dat mannen een grotere gemiddelde schoenmaat hebben vergeleken met vrouwen is correct. Daarbij is de nulhypothese verworpen aangezien deze
 erop duidde dat er juist geen verschil zou zijn in schoenmaat. In de grafieken kun je boxplots zien waarin het verschil en uitschieters bij leeftijd en schoenmaat

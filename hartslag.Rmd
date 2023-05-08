@@ -14,11 +14,16 @@ date: '24/4/2023'
 
 ## inleiding
 
-Het doel van dit onderzoek is om de relatie tussen muziek en de veranderingen in hartslag en bloeddruk bij volwassenen te onderzoeken. We weten dat muziek een krachtige invloed kan hebben op onze emoties en lichaamsfuncties, en er is al veel onderzoek gedaan naar het effect van muziek op de hersenen en ons algemeen welzijn. Echter, er is minder onderzoek gedaan naar het effect van muziek op specifieke fysieke parameters, zoals de hartslag en bloeddruk.
+Het doel van dit onderzoek is om de relatie tussen muziek en de veranderingen in hartslag en bloeddruk bij studenten te onderzoeken. 
+We weten dat muziek een krachtige invloed kan hebben op onze emoties en lichaamsfuncties, en er is al veel onderzoek gedaan naar het effect van muziek op de hersenen en ons algemeen welzijn. 
+Echter, er is minder onderzoek gedaan naar het effect van muziek op specifieke fysieke parameters, zoals de hartslag en bloeddruk.
 
-Voor dit onderzoek zullen we volwassen deelnemers vragen om naar twee verschillende muziekstukken te luisteren, waarvan er één hun hartslag zal verhogen en de andere hun hartslag zal verlagen. We zullen de hartslag en bloeddruk van de deelnemers meten in rust voordat het experiment begint, tijdens het beluisteren van elk muziekstuk en na het experiment om te zien of er veranderingen zijn opgetreden.
+Voor dit onderzoek zullen we studenten deelnemers vragen om naar een muziekstuk te luisteren, waarvan die hun hartslag zal verhogen. 
+We zullen de hartslag en bloeddruk van de deelnemers meten in rust voordat het experiment begint, tijdens het beluisteren van het muziekstuk en na het experiment
+om te zien of er veranderingen zijn opgetreden.
 
-Met deze gegevens zullen we onderzoeken of er een significante relatie bestaat tussen het beluisteren van muziek en veranderingen in hartslag en bloeddruk bij volwassenen. Het begrijpen van deze relatie kan nuttig zijn voor toekomstig onderzoek en de ontwikkeling van muziektherapieën die gericht zijn op het verbeteren van de fysieke gezondheid.
+Met deze gegevens zullen we onderzoeken of er een significante relatie bestaat tussen het beluisteren van muziek en veranderingen in hartslag en bloeddruk bij studenten.
+Het begrijpen van deze relatie kan nuttig zijn voor toekomstig onderzoek en de ontwikkeling van muziektherapieën die gericht zijn op het verbeteren van de fysieke gezondheid.
 
 We hopen dat dit onderzoek kan bijdragen aan een beter begrip van hoe muziek ons lichaam beïnvloedt en hoe we deze kennis kunnen gebruiken om onze gezondheid te verbeteren.
 
@@ -52,6 +57,9 @@ We hopen dat dit onderzoek kan bijdragen aan een beter begrip van hoe muziek ons
 
 8. We analyseren de gegevens om te zien of er een significante verandering was in de hartslag en bloeddruk van de deelnemers bij het luisteren naar de verschillende muziekstukken.
  
+## Belangrijke factoren
+Hebben ze net gesport(voorbeeld)
+
 
 ## hypothese
 
@@ -61,7 +69,7 @@ De muziek zorgt bij de studenten voor een hogere hartslag en bloeddruk.
 
 ## nulhypothese
 
-De muziek heeft geen invloed op de hartslag en bloeddruk.
+De muziek heeft geen invloed op de hartslag en bloeddruk bij studenten.
 
  
 
@@ -88,13 +96,6 @@ De muziek heeft geen invloed op de hartslag en bloeddruk.
 
 
 
-## reflectie
 
-
-
-
-
-
-## conclusie
 
 

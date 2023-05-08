@@ -60,8 +60,8 @@ We hopen dat dit onderzoek kan bijdragen aan een beter begrip van hoe muziek ons
 8. We analyseren de gegevens om te zien of er een significante verandering was in de hartslag en bloeddruk van de deelnemers bij het luisteren naar de verschillende muziekstukken.
  
 ## Belangrijke factoren
-Hebben ze net gesport(voorbeeld)
-
+Hebben ze zich recent ingespannen (bv. gesport)
+Hebben ze hartslag aanpassende medicatie (bv. anti-aritmica)
 
 ## hypothese
 

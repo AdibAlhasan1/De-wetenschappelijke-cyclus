@@ -12,7 +12,7 @@ author: 'Jort(), Mathijs(451514), Adib(), Bram()'
 date: '24/4/2023'
 ---
 
-### inleiding
+## inleiding
 
 Het doel van dit onderzoek is om de relatie tussen muziek en de veranderingen in hartslag en bloeddruk bij volwassenen te onderzoeken. We weten dat muziek een krachtige invloed kan hebben op onze emoties en lichaamsfuncties, en er is al veel onderzoek gedaan naar het effect van muziek op de hersenen en ons algemeen welzijn. Echter, er is minder onderzoek gedaan naar het effect van muziek op specifieke fysieke parameters, zoals de hartslag en bloeddruk.
 
@@ -22,15 +22,15 @@ Met deze gegevens zullen we onderzoeken of er een significante relatie bestaat t
 
 We hopen dat dit onderzoek kan bijdragen aan een beter begrip van hoe muziek ons lichaam beïnvloedt en hoe we deze kennis kunnen gebruiken om onze gezondheid te verbeteren.
 
-### Onderzoeksvraag
+## Onderzoeksvraag
 
  Beïnvloedt De muziek de hartslag en bloeddruk van studenten in het hoger onderwijs?.
 
  
 
-### Protocol
+## Protocol
 
- #### Benodigheden
+### Benodigheden
  * Hartslag/bloeddruk meter 
  * Vragenlijst
  * koptelefoon
@@ -74,6 +74,17 @@ De muziek heeft geen invloed op de hartslag en bloeddruk.
  
 
 ## Data verzamelen
+
+
+
+## reflectie
+
+
+
+
+
+
+## conclusie
 
 
 

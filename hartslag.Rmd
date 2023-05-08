@@ -1,0 +1,60 @@
+---
+title: "Onderzoek naar de correlatie tussen hartslag en muziek"
+output:
+  html_document:
+    css: style.css
+    toc: yes
+    toc_depth: 3
+    toc_float:
+      collapsed: yes
+      smooth_scroll: yes
+author: 'Jort(), Mathijs(451514), Adib(), Bram()'
+date: '24/4/2023'
+---
+
+## Inleiding
+
+
+
+## Onderzoeksvraag
+
+
+
+## hypothese
+
+
+
+
+## nulhypothese
+
+
+
+ 
+
+## experiment
+
+
+ 
+
+### Protocol
+
+ 
+
+### Benodigheden
+
+ 
+
+## Data verzamelen
+
+
+
+## reflectie
+
+
+
+
+
+
+## conclusie
+
+

@@ -12,22 +12,49 @@ author: 'Jort(), Mathijs(451514), Adib(), Bram()'
 date: '24/4/2023'
 ---
 
-## Inleiding
+### inleiding
 
 
+### Onderzoeksvraag
 
-## Onderzoeksvraag
+ Beïnvloedt De muziek de hartslag en bloeddruk van studenten in het hoger onderwijs?.
 
+ 
 
+### Protocol
+
+ #### Benodigheden
+ * Hartslag/bloeddruk meter 
+ * Vragenlijst
+ * koptelefoon
+ * niet rustgevende muziek
+
+1. Wij gaan ervoor zorgen dat alle deelnemers aan het onderzoek ontspannen en rustig zijn voordat het onderzoek begint. Vraag de deelnemers om gedurende ten minste vijf minuten rustig te zitten en te ontspannen voordat ze aan het experiment beginnen.
+
+2. Geef ondertussen een vragenlijst om oorzaken van significante verschillen te ontdekken.
+
+3. Leg het doel van het onderzoek uit aan de deelnemers en geef aan dat ze naar twee verschillende muziekstukken gaan luisteren. Eén muziekstuk zal hun hartslag verhogen en het andere muziekstuk zal hun hartslag verlagen. Je kunt hiervoor muziek uit verschillende genres en tempi gebruiken. Laat de deelnemers weten dat ze tijdens het experiment hun hartslag en bloeddruk gemeten krijgen en dat ze moeten proberen stil te zitten en te ontspannen terwijl ze naar de muziek luisteren.
+
+4. Neem de hartslag en bloeddruk van de deelnemer op in rust voordat het experiment begint. Dit kan worden gedaan met een hartslag- en bloeddrukmeter of een ander apparaat dat deze waarden nauwkeurig kan meten. Zorg ervoor dat de deelnemer ontspannen en stil zit terwijl de meting wordt uitgevoerd.
+
+5. Laat de deelnemer naar het eerste muziekstuk luisteren en neem de hartslag en bloeddruk van de deelnemer op tijdens het luisteren naar het muziekstuk. Zorg ervoor dat de deelnemer stil zit en ontspannen blijft tijdens de meting.
+
+6. Na het eerste muziekstuk, neem je opnieuw de hartslag en bloeddruk van de deelnemer op.  Zorg ervoor dat de deelnemer stil zit en ontspannen blijft tijdens de meting.
+
+7. Noteer de gemeten hartslag- en bloeddrukwerten voor het muziekstuk van elke deelnemer.
+
+8. We analyseren de gegevens om te zien of er een significante verandering was in de hartslag en bloeddruk van de deelnemers bij het luisteren naar de verschillende muziekstukken.
+ 
 
 ## hypothese
 
+De muziek zorgt bij de studenten voor een hogere hartslag en bloeddruk.
 
 
 
 ## nulhypothese
 
-
+De muziek heeft geen invloed op de hartslag en bloeddruk.
 
  
 
@@ -36,11 +63,6 @@ date: '24/4/2023'
 
  
 
-### Protocol
-
- 
-
-### Benodigheden
 
  
 

@@ -38,8 +38,10 @@ We hopen dat dit onderzoek kan bijdragen aan een beter begrip van hoe muziek ons
 ### Benodigheden
  * Hartslag/bloeddruk meter 
  * Vragenlijst
- * koptelefoon
- * niet rustgevende muziek
+ * Koptelefoon
+ * Muziekspelend apparaat
+ * Niet rustgevende muziek
+ * Rustgevende muziek
 
 1. Wij gaan ervoor zorgen dat alle deelnemers aan het onderzoek ontspannen en rustig zijn voordat het onderzoek begint. Vraag de deelnemers om gedurende ten minste vijf minuten rustig te zitten en te ontspannen voordat ze aan het experiment beginnen.
 

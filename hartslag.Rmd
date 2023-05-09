@@ -60,6 +60,11 @@ Door de relatie tussen muziek en hartslag en bloeddruk te onderzoeken, hopen we 
 
 12. Trek conclusies uit de resultaten van het onderzoek en rapporteer de bevindingen.
 
+13. Zorg ervoor dat alle gegevens worden genoteerd in een csv-bestand en dat dit bestand wordt opgeslagen in het daarvoor bestemde kanaal op Teams.
+
+14. Controleer de nauwkeurigheid van de gegevens voordat ze worden opgeslagen en bewaard.
+
+15. Garandeer de vertrouwelijkheid van de gegevens en zorg ervoor dat de privacy van de deelnemers wordt beschermd.
 
  
 ## Belangrijke factoren

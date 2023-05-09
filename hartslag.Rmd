@@ -18,7 +18,7 @@ Het doel van dit onderzoek is om de relatie tussen muziek en hartslag en bloeddr
 
 Vervolgens zullen we de deelnemers laten luisteren naar één muziekstuk dat speciaal is geselecteerd om de hartslag te verhogen. We zullen hun hartslag en bloeddruk meten terwijl ze naar de muziek luisteren. Na het eerste muziekstuk zullen we opnieuw de hartslag en bloeddruk meten om te bepalen of er een significante verandering was in vergelijking met de metingen in rust. We zullen deze gegevens noteren en analyseren om te zien of er een significante relatie is tussen muziek en hartslag en bloeddruk.
 
-Het onderzoek zal worden uitgevoerd met behulp van een hartslag- en bloeddrukmeter of een ander apparaat dat deze waarden nauwkeurig kan meten. De deelnemers zullen worden geselecteerd op basis van leeftijd en geslacht om ervoor te zorgen dat er een representatieve steekproef wordt genomen. We zullen ook een vragenlijst gebruiken om eventuele oorzaken van significante verschillen in de gegevens te ontdekken.
+Het onderzoek zal worden uitgevoerd met behulp van de Omron hartslag- en bloeddrukmeter. De deelnemers zullen worden geselecteerd op basis van leeftijd en geslacht om ervoor te zorgen dat er een representatieve steekproef wordt genomen. We zullen ook een vragenlijst gebruiken om eventuele oorzaken van significante verschillen in de gegevens te ontdekken.
 
 Door de relatie tussen muziek en hartslag en bloeddruk te onderzoeken, hopen we meer inzicht te krijgen in hoe muziek het menselijk lichaam beïnvloedt. Deze informatie kan worden gebruikt om het gebruik van muziek als therapie verder te onderzoeken en te ontwikkelen.
 
@@ -36,11 +36,11 @@ Door de relatie tussen muziek en hartslag en bloeddruk te onderzoeken, hopen we 
  * koptelefoon
  * niet rustgevende muziek
 
-1. Wij gaan ervoor zorgen dat alle deelnemers aan het onderzoek ontspannen en rustig zijn voordat het onderzoek begint. Vraag de deelnemers om gedurende ten minste vijf minuten rustig te zitten en te ontspannen voordat ze aan het experiment beginnen.
+1. Wij gaan ervoor zorgen dat alle deelnemers aan het onderzoek ontspannen en rustig zijn voordat het onderzoek begint. ABC zal de deelnemers vragen om gedurende ten minste vijf minuten rustig te zitten en te ontspannen voordat ze aan het experiment beginnen.
 
 2. Geef ondertussen een vragenlijst om oorzaken van significante verschillen te ontdekken.
 
-3. Leg het doel van het onderzoek uit aan de deelnemers en geef aan dat ze naar één muziekstuk gaan luisteren. Het muziekstuk zal hun hartslag verhogen. Je kunt hiervoor muziek uit topnummers gebruiken om de hartslag te verhogen. Laat de deelnemers weten dat ze tijdens het experiment hun hartslag en bloeddruk gemeten krijgen en dat ze moeten proberen stil te zitten en te ontspannen terwijl ze naar de muziek luisteren.
+3. Leg het doel van het onderzoek uit aan de deelnemers en geef aan dat ze naar één muziekstuk gaan luisteren. Het muziekstuk zal hun hartslag verhogen. Je kunt hiervoor muziek uit topnummers gebruiken om de hartslag te verhogen. Laat de deelnemers weten dat ze tijdens het experiment hun hartslag en bloeddruk gemeten krijgen en dat ze moeten proberen stil te zitten en te ontspannen terwijl ze naar de muziek luisteren. ABC zal ervoor zorgen dat de deelnemers een headset dragen tijdens het luisteren naar de muziek.
 
 4. Neem de hartslag en bloeddruk van de deelnemer op in rust voordat het experiment begint. Dit kan worden gedaan met een hartslag- en bloeddrukmeter of een ander apparaat dat deze waarden nauwkeurig kan meten. Zorg ervoor dat de deelnemer ontspannen en stil zit terwijl de meting wordt uitgevoerd.
 
@@ -48,8 +48,7 @@ Door de relatie tussen muziek en hartslag en bloeddruk te onderzoeken, hopen we 
 
 6. Laat de deelnemer naar het eerste muziekstuk luisteren en neem de hartslag en bloeddruk van de deelnemer op tijdens het luisteren naar het muziekstuk. Zorg ervoor dat de deelnemer stil zit en ontspannen blijft tijdens de meting.
 
-7. Na het eerste muziekstuk, neem je opnieuw de hartslag en bloeddruk van de deelnemer op. Plaats de bloeddrukmeter opnieuw op de bovenarm van de deelnemer en zorg ervoor dat deze goed vastzit. Zorg ervoor dat de deelnemer stil zit en ontspannen blijft tijdens de meting.
-
+7. Na het eerste muziekstuk, neemt ABC opnieuw de hartslag en bloeddruk van de deelnemer op. Plaats de bloeddrukmeter opnieuw op de bovenarm van de deelnemer en zorg ervoor dat deze goed vastzit. Zorg ervoor dat de deelnemer stil zit en ontspannen blijft tijdens de meting.
 8. Noteer de gemeten hartslag- en bloeddrukwerten voor het muziekstuk van elke deelnemer.
 
 9. Herhaal stap 5-8 voor de volgende muziekstukken.
@@ -92,12 +91,6 @@ De muziek heeft geen invloed op de hartslag en bloeddruk bij studenten.
 
 ## reflectie
 
-
-
-
-
-
-## conclusie
 
 
 

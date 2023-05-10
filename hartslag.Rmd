@@ -1,5 +1,5 @@
 ---
-title: "Onderzoek naar de correlatie tussen hartslag en muziek"
+title: "Cardiovasculaire stimulatie door middel van muziek"
 output:
   html_document:
     css: style.css
@@ -8,11 +8,11 @@ output:
     toc_float:
       collapsed: yes
       smooth_scroll: yes
-author: 'Jort(), Mathijs(451514), Adib(), Bram()'
+author: 'Jort(), Mathijs(451514), Adib(), Bram(456146)'
 date: '24/4/2023'
 ---
 
-## inleiding
+## Inleiding
 
 Het doel van dit onderzoek is om de relatie tussen muziek en hartslag en bloeddruk te onderzoeken. Om deze relatie te onderzoeken, zullen we de effecten van een enkel muziekstuk op de hartslag en bloeddruk van de deelnemers meten. We zullen deelnemers vragen om vijf minuten ontspannen te zitten voordat het experiment begint, zodat ze zich in een rustige en ontspannen toestand bevinden voordat we de metingen uitvoeren.
 
@@ -70,25 +70,25 @@ Door de relatie tussen muziek en hartslag en bloeddruk te onderzoeken, hopen we 
 ## Belangrijke factoren
 Hebben ze net een fysieke activiteit gehad?
 Drinken ze regelmatig caffeine/hebben ze vandaag caffeine gehad.
-Hebben hart en vaat problemen.
+Hebben ze hart en vaat problemen.
 zijn ze een ochtend of avond mens.
 
 
 
 
-## hypothese
+## Hypothese
 
 De muziek zorgt bij de studenten voor een hogere hartslag en bloeddruk.
 
 
 
-## nulhypothese
+## Nulhypothese
 
 De muziek heeft geen invloed op de hartslag en bloeddruk bij studenten.
 
  
 
-## experiment
+## Experiment
 
 
  
@@ -100,20 +100,15 @@ De muziek heeft geen invloed op de hartslag en bloeddruk bij studenten.
 
 
 
-## reflectie
+## Reflectie
 
 
 
 
 
 
-## conclusie
+## Conclusie
 
-
-
-
-
-## conclusie
 
 
 

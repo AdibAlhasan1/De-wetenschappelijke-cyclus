@@ -1,0 +1,9 @@
+id,laborant_id,boven_bloeddruk_voor,onder_bloeddruk_voor,boven_bloeddruk_na,onder_bloeddruk_na,bpm_voor,bpm_na,leeftijd,sexe,dag_van_de_week,tijdstip,vragenlijst
+1,Bram/Mathijs,104,64,68,73,68,73,20,m,donderdag,8-10,geen caffeine
+2,Bram/Mathijs,116,82,77,81,77,81,25,m,donderdag,8-10,geen caffeine
+3,Bram/Mathijs,127,72,69,68,69,68,18,m,donderdag,10-12,geen caffeine
+4,Bram/Mathijs,117,65,62,65,62,65,21,m,donderdag,8-10,geen caffeine
+5,Bram/Mathijs,122,67,65,76,65,76,19,m,donderdag,8-10,geen caffeine
+6,Bram/Mathijs,119,74,59,85,59,85,18,m,donderdag,8-10,caffeine
+7,Bram/Mathijs,147,81,72,61,72,61,17,m,donderdag,8-10,geen caffeine
+8,Bram/Mathijs,108,80,70,65,70,65,22,v,donderdag,10-12,geen caffeine

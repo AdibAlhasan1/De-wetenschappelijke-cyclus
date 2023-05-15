@@ -11,7 +11,7 @@ id,laborant-id,boven-bloeddruk_voor,onder-bloeddruk_voor,boven-bloeddruk_na,onde
 10,Bram/Mathijs,122,73,117,73,48,58,23,v,Vrijdag,8-10,NA
 11,Bram/Mathijs,112,66,114,65,54,55,20,v,Vrijdag,8-10,NA
 12,Bram/Mathijs,117,81,119,79,73,73,20,v,Vrijdag,8-10,NA
-13,Bram/Mathijs,122,97,76,154,86,100,22,m,Vrijdag,10-12,caffeine/potientiele/hartproblemen
+13,Bram/Mathijs,122,97,154,76,86,100,22,m,Vrijdag,10-12,caffeine,potientiele hartproblemen
 14,Bram/Mathijs,123,76,131,75,68,75,20,m,Vrijdag,10-12,NA
 15,Bram/Mathijs,119,73,116,64,56,57,21,m,Maandag,12-2,NA
 16,Bram/Mathijs,117,72,106,66,60,63,18,v,Maandag,12-2,NA
@@ -22,16 +22,10 @@ id,laborant-id,boven-bloeddruk_voor,onder-bloeddruk_voor,boven-bloeddruk_na,onde
 21,Bram/Mathijs,108,74,110,76,64,75,19,v,Maandag,12-2,NA
 22,Bram/Mathijs,120,69,124,72,51,56,23,v,Maandag,12-2,caffeine
 23,Bram/Mathijs,131,76,129,73,64,67,21,v,Maandag,12-2,caffeine
-
-
-
-
-
-
-
-
-
-
-
-
-
+24,Bram/Mathijs,127,72,132,75,60,62,19,m,Maandag,12-2,NA
+25,Bram/Mathijs,124,76,117,82,76,81,22,m,Maandag,12-2,potientiele hartproblemen
+26,Bram/Mathijs,139,57,139,66,64,69,28,m,Maandag,12-2,caffeine
+27,Bram/Mathijs,111,74,111,68,56,54,19,m,Maandag,12-2,NA
+28,Bram/Mathijs,136,79,147,79,81,85,19,m,Maandag,12-2,caffeine
+29,Bram/Mathijs,118,86,113,84,100,102,v,Maandag,2-4,gefietst
+30,Bram/Mathijs,121,80,116,80,66,75,v,Maandag,2-4,NA

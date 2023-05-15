@@ -1,9 +1,37 @@
-id,laborant_id,boven_bloeddruk_voor,onder_bloeddruk_voor,boven_bloeddruk_na,onder_bloeddruk_na,bpm_voor,bpm_na,leeftijd,sexe,dag_van_de_week,tijdstip,vragenlijst
-1,Bram/Mathijs,104,64,68,73,68,73,20,m,donderdag,8-10,geen caffeine
-2,Bram/Mathijs,116,82,77,81,77,81,25,m,donderdag,8-10,geen caffeine
-3,Bram/Mathijs,127,72,69,68,69,68,18,m,donderdag,10-12,geen caffeine
-4,Bram/Mathijs,117,65,62,65,62,65,21,m,donderdag,8-10,geen caffeine
-5,Bram/Mathijs,122,67,65,76,65,76,19,m,donderdag,8-10,geen caffeine
-6,Bram/Mathijs,119,74,59,85,59,85,18,m,donderdag,8-10,caffeine
-7,Bram/Mathijs,147,81,72,61,72,61,17,m,donderdag,8-10,geen caffeine
-8,Bram/Mathijs,108,80,70,65,70,65,22,v,donderdag,10-12,geen caffeine
+id,laborant-id,boven-bloeddruk_voor,onder-bloeddruk_voor,boven-bloeddruk_na,onder-bloeddruk_na,bpm_voor,bpm_na,leeftijd,sexe,dag_v,d,_week,tijdstip,vragenlijst
+1,Bram/Mathijs,104,64,113,62,68,73,20,m,donderdag,8-10,NA
+2,Bram/Mathijs,116,82,118,83,77,81,25,m,donderdag,8-10,NA
+3,Bram/Mathijs,127,72,142,78,69,68,18,m,donderdag,10-12,NA
+4,Bram/Mathijs,117,65,123,59,62,65,21,m,donderdag,8-10,NA
+5,Bram/Mathijs,122,67,125,81,65,76,19,m,donderdag,8-10,NA
+6,Bram/Mathijs,119,74,140,82,59,85,18,m,donderdag,8-10,caffeine
+7,Bram/Mathijs,147,81,158,76,72,61,17,m,donderdag,8-10,NA
+8,Bram/Mathijs,108,80,61,101,70,65,22,v,dondrdag,10-12,NA
+9,Jort/Mathijs,121,67,129,71,54,57,20,m,Vrijdag,8-10,NA
+10,Bram/Mathijs,122,73,117,73,48,58,23,v,Vrijdag,8-10,NA
+11,Bram/Mathijs,112,66,114,65,54,55,20,v,Vrijdag,8-10,NA
+12,Bram/Mathijs,117,81,119,79,73,73,20,v,Vrijdag,8-10,NA
+13,Bram/Mathijs,122,97,76,154,86,100,22,m,Vrijdag,10-12,caffeine,potientiele hartproblemen
+14,Bram/Mathijs,123,76,131,75,68,75,20,m,Vrijdag,10-12,NA
+15,Bram/Mathijs,119,73,116,64,56,57,21,m,Maandag,12-2,NA
+16,Bram/Mathijs,117,72,106,66,60,63,18,v,Maandag,12-2,NA
+17,Bram/Mathijs,128,81,139,87,72,56,28,m,Maandag,12-2,lopen/fietsen/caffeine
+18,Bram/Mathijs,115,64,116,62,76,73,19,v,Maandag,12-2,NA
+19,Bram/Mathijs,119,85,123,83,94,91,26,m,Maandag,12-2,caffeine/fietsen
+20,Bram/Mathijs,144,81,137,82,72,63,19,m,Maandag,12-2,NA
+21,Bram/Mathijs,108,74,110,76,64,75,19,v,Maandag,12-2,NA
+22,Bram/Mathijs,120,69,124,72,51,56,23,v,Maandag,12-2,caffeine
+23,Bram/Mathijs,131,76,129,73,64,67,21,v,Maandag,12-2,caffeine
+
+
+
+
+
+
+
+
+
+
+
+
+

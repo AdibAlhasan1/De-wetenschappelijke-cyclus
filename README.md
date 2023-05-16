@@ -5,14 +5,17 @@
 ### datum: 01-05-2023
 ### operating system: linux,mac-os,windows
 
+# benodigheden
+### tidyverse of Rmd
+### Rmd
+### HTML
+### style.css
+
 # beschrijving
 We hebben onderzoek gedaan of er een significant verschil is in schoenmaat tussen mannen en vrouwen en we hebben daar ook leeftijd bij betrokken.
 De data die we hebben gevonden kun je vinden in schoenmaat.csv. en de code in rData.RMD
 We hebben een uitgebreid protocol in de website ern allemaal andere informatie.
 Ook hebben we na het onderzoek verschillende testen uitgevoerd die je onder andere ook op de site kan zien.
-
-
-# usage
 
 
 # run program

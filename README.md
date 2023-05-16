@@ -1,6 +1,6 @@
 # Onderzoek naar verschil schoenmaat mannen en vrouwen voor Biometrie
 
-### auteurs: jort Mathijs Adib Bram
+### auteurs: Jort Mathijs Adib Bram
 ### versie: 1.0
 ### datum: 01-05-2023
 ### operating system: linux,mac-os,windows
@@ -22,4 +22,4 @@ Open deze File en launch de website om ons onderzoek met de gegevens te zien.
 
 
 # contact
-voor meer informatie contacteerdan 1 van onze ontwikkelaars jort(j.r.gommers@st.hanze.nl),Bram(mail),Adib(mail),mathijs(mail)
+voor meer informatie contacteer dan 1 van onze ontwikkelaars jort(j.r.gommers@st.hanze.nl),Bram(mail),Adib(mail),mathijs(mail)

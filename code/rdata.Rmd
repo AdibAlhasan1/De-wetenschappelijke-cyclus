@@ -67,7 +67,7 @@ We gaan door totdat we ten minste 40 proefpersonen de gegevens zijn verzameld.
 ```{r visualize, echo = FALSE}
 library(ggplot2)
 # Load the data
-biometric_data <- read.table(file = "schoenmaat.csv",
+biometric_data <- read.table(file = "data/schoenmaat.csv",
                              header = TRUE,
                              sep = ",")
  
@@ -94,7 +94,7 @@ ggplot(biometric_data,
 library(ggplot2)
  
 #Load the data
-biometric_data <- read.table(file = "schoenmaat.csv",
+biometric_data <- read.table(file = "data/schoenmaat.csv",
  header = TRUE,
  sep = ",")
  
@@ -112,7 +112,7 @@ ggplot(biometric_data,
 library(ggplot2)
  
 #Load the data
-biometric_data <- read.table(file = "schoenmaat.csv",
+biometric_data <- read.table(file = "data/schoenmaat.csv",
  header = TRUE,
  sep = ",")
  

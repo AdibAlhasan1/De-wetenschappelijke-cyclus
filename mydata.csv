@@ -1,4 +1,4 @@
-id,laborant-id,boven-bloeddruk_voor,onder-bloeddruk_voor,boven-bloeddruk_na,onder-bloeddruk_na,bpm_voor,bpm_na,leeftijd,sexe,dag_v,d,_week,tijdstip,vragenlijst
+id,laborant-id,boven-bloeddruk_voor,onder-bloeddruk_voor,boven-bloeddruk_na,onder-bloeddruk_na,bpm_voor,bpm_na,leeftijd,sexe,dag_vd_week,tijdstip,vragenlijst
 1,Bram/Mathijs,104,64,113,62,68,73,20,m,donderdag,8-10,NA
 2,Bram/Mathijs,116,82,118,83,77,81,25,m,donderdag,8-10,NA
 3,Bram/Mathijs,127,72,142,78,69,68,18,m,donderdag,10-12,NA

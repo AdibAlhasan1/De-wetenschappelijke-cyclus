@@ -22,4 +22,4 @@ Open deze File en launch de website om ons onderzoek met de gegevens te zien.
 
 
 # contact
-voor meer informatie contacteer dan 1 van onze ontwikkelaars jort(j.r.gommers@st.hanze.nl),Bram(mail),Adib(mail),mathijs(mail)
+voor meer informatie contacteer dan 1 van onze ontwikkelaars Jort(j.r.gommers@st.hanze.nl),Bram(mail),Adib(mail),Mathijs(mail)

@@ -1,4 +1,4 @@
-id,laborant-id,boven-bloeddruk_voor,onder-bloeddruk_voor,boven-bloeddruk_na,onder-bloeddruk_na,bpm_voor,bpm_na,leeftijd,sexe,dag_v,d,_week,tijdstip,vragenlijst
+id,laborant-id,boven-bloeddruk_voor,onder-bloeddruk_voor,boven-bloeddruk_na,onder-bloeddruk_na,bpm_voor,bpm_na,leeftijd,sexe,dag_v.d._week,tijdstip,vragenlijst
 1,Bram/Mathijs,104,64,113,62,68,73,20,m,Donderdag,8-10,NA
 2,Bram/Mathijs,116,82,118,83,77,81,25,m,Donderdag,8-10,NA
 3,Bram/Mathijs,127,72,142,78,69,68,18,m,Donderdag,10-12,NA
@@ -6,7 +6,7 @@ id,laborant-id,boven-bloeddruk_voor,onder-bloeddruk_voor,boven-bloeddruk_na,onde
 5,Bram/Mathijs,122,67,125,81,65,76,19,m,Donderdag,8-10,NA
 6,Bram/Mathijs,119,74,140,82,59,85,18,m,Donderdag,8-10,caffeine
 7,Bram/Mathijs,147,81,158,76,72,61,17,m,Donderdag,8-10,NA
-8,Bram/Mathijs,108,80,61,101,70,65,22,v,Donderdag,10-12,NA
+8,Bram/Mathijs,108,80,101,61,70,65,22,v,Donderdag,10-12,NA
 9,Jort/Mathijs,121,67,129,71,54,57,20,m,Vrijdag,8-10,NA
 10,Bram/Mathijs,122,73,117,73,48,58,23,v,Vrijdag,8-10,NA
 11,Bram/Mathijs,112,66,114,65,54,55,20,v,Vrijdag,8-10,NA

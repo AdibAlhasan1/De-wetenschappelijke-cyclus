@@ -1,9 +1,9 @@
 # Onderzoek naar verschil schoenmaat mannen en vrouwen voor Biometrie
 
-auteurs: jort Mathijs Adib Bram.
-versie: 1.0.
-datum: 01-05-2023.
-operating system: linux,mac-os,windows.
+### auteurs: jort Mathijs Adib Bram
+versie: 1.0
+datum: 01-05-2023
+operating system: linux,mac-os,windows
 
 # beschrijving
 We hebben onderzoek gedaan of er een significant verschil is in schoenmaat tussen mannen en vrouwen en we hebben daar ook leeftijd bij betrokken.
